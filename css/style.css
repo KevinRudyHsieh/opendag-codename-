@@ -1,0 +1,26 @@
+/* Primary Navigation Bar */
+.primary-nav {
+    background-color: blue;
+    color: purple;
+    padding: 10px;
+  }
+  
+  .primary-nav a {
+    color: inherit;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .primary-nav a:hover {
+    color: white;
+  }
+  
+  /* Secondary Navigation Bar */
+  .secondary-nav {
+    background-color: rgba(128, 128, 128, 0.5); /* Grey transparent */
+    padding: 5px;
+  }
+  
+  /* Additional styling */
+  /* Add your additional styling rules here */
+  
