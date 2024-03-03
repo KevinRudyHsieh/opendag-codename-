@@ -43,3 +43,77 @@ header nav a.active {
 main {
   padding: 20px; /* Add some padding to the main content area */
 }
+
+body {
+background-color: white;
+}
+
+
+/* Add some space between the <h1> and paragraphs */
+  h1 {
+      margin-bottom: 20px;
+  }
+
+  /* Create a flex container for the paragraphs */
+  .student {
+      display: flex;
+      flex-direction: row; /* Display in a row */
+      gap: 20px; /* Add spacing between paragraphs */
+  }
+
+  /* Style the paragraphs (optional) */
+  .student p {
+      font-size: 16px;
+      line-height: 1.5;
+  }
+/* Add some space between the <h1> and paragraphs */
+  h1 {
+      margin-bottom: 20px;
+  }
+
+  /* Create a flex container for the paragraphs */
+  .student {
+      display: flex;
+      flex-direction: row; /* Display in a row */
+      gap: 20px; /* Add spacing between paragraphs */
+  }
+
+  /* Style the paragraphs (optional) */
+  .student p {
+      font-size: 16px;
+      line-height: 1.5;
+  }
+/* Add some space between the <h1> and paragraphs */
+  h1 {
+      margin-bottom: 20px;
+  }
+
+  /* Create a flex container for the paragraphs */
+  .student {
+      display: flex;
+      flex-direction: row; /* Display in a row */
+      gap: 20px; /* Add spacing between paragraphs */
+  }
+
+  /* Style the paragraphs (optional) */
+  .student p {
+      font-size: 16px;
+      line-height: 1.5;
+  }
+/* Add some space between the <h1> and paragraphs */
+  h1 {
+      margin-bottom: 20px;
+  }
+
+  /* Create a flex container for the paragraphs */
+  .student {
+      display: flex;
+      flex-direction: row; /* Display in a row */
+      gap: 20px; /* Add spacing between paragraphs */
+  }
+
+  /* Style the paragraphs (optional) */
+  .student p {
+      font-size: 16px;
+      line-height: 1.5;
+  }
